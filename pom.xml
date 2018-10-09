@@ -11,6 +11,9 @@
     <modules>
         <module>01-SimpleFactory</module>
         <module>02-Strategy</module>
+        <module>03 - Decorator</module>
+        <module>03-Decorator</module>
+        <module>04-Proxy</module>
     </modules>
 
 

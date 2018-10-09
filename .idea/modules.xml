@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01-SimpleFactory/01-SimpleFactory.iml" filepath="$PROJECT_DIR$/01-SimpleFactory/01-SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-Strategy/02-Strategy.iml" filepath="$PROJECT_DIR$/02-Strategy/02-Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Decorator/03-Decorator.iml" filepath="$PROJECT_DIR$/03-Decorator/03-Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Proxy/04-Proxy.iml" filepath="$PROJECT_DIR$/04-Proxy/04-Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern.iml" />
     </modules>
   </component>

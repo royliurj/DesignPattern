@@ -12,6 +12,7 @@
         <module name="04-Proxy" />
         <module name="05-Factory" />
         <module name="06-Prototype" />
+        <module name="07-TemplateMethod" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -22,6 +23,7 @@
       <module name="04-Proxy" target="1.5" />
       <module name="05-Factory" target="1.5" />
       <module name="06-Prototype" target="1.5" />
+      <module name="07-TemplateMethod" target="1.5" />
       <module name="DesignPattern" target="1.5" />
     </bytecodeTargetLevel>
   </component>

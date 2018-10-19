@@ -17,6 +17,7 @@
         <module>05-Factory</module>
         <module>06-Prototype</module>
         <module>07-TemplateMethod</module>
+        <module>08-Facade</module>
     </modules>
 
 

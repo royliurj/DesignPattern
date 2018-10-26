@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/06-Prototype/06-Prototype.iml" filepath="$PROJECT_DIR$/06-Prototype/06-Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/07-TemplateMethod/07-TemplateMethod.iml" filepath="$PROJECT_DIR$/07-TemplateMethod/07-TemplateMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/08-Facade/08-Facade.iml" filepath="$PROJECT_DIR$/08-Facade/08-Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-Builder/09-Builder.iml" filepath="$PROJECT_DIR$/09-Builder/09-Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern.iml" />
     </modules>
   </component>

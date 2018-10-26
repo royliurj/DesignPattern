@@ -14,6 +14,8 @@
         <module name="06-Prototype" />
         <module name="07-TemplateMethod" />
         <module name="08-Facade" />
+        <module name="09-Build" />
+        <module name="09-Builder" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -26,6 +28,8 @@
       <module name="06-Prototype" target="1.5" />
       <module name="07-TemplateMethod" target="1.5" />
       <module name="08-Facade" target="1.5" />
+      <module name="09-Build" target="1.5" />
+      <module name="09-Builder" target="1.5" />
       <module name="DesignPattern" target="1.5" />
     </bytecodeTargetLevel>
   </component>

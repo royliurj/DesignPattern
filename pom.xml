@@ -18,6 +18,8 @@
         <module>06-Prototype</module>
         <module>07-TemplateMethod</module>
         <module>08-Facade</module>
+        <module>09-Build</module>
+        <module>09-Builder</module>
     </modules>
 
 

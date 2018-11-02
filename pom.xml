@@ -21,6 +21,7 @@
         <module>09-Build</module>
         <module>09-Builder</module>
         <module>10-Observer</module>
+        <module>11-AbstractFactoryMehod</module>
     </modules>
 
 

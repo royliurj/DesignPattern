@@ -17,6 +17,7 @@
         <module name="09-Build" />
         <module name="09-Builder" />
         <module name="10-Observer" />
+        <module name="11-AbstractFactory" />
         <module name="11-AbstractFactoryMehod" />
       </profile>
     </annotationProcessing>
@@ -33,6 +34,7 @@
       <module name="09-Build" target="1.5" />
       <module name="09-Builder" target="1.5" />
       <module name="10-Observer" target="1.5" />
+      <module name="11-AbstractFactory" target="1.5" />
       <module name="11-AbstractFactoryMehod" target="1.5" />
       <module name="DesignPattern" target="1.5" />
     </bytecodeTargetLevel>

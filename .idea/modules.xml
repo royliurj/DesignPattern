@@ -12,7 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/08-Facade/08-Facade.iml" filepath="$PROJECT_DIR$/08-Facade/08-Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/09-Builder/09-Builder.iml" filepath="$PROJECT_DIR$/09-Builder/09-Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/10-Observer/10-Observer.iml" filepath="$PROJECT_DIR$/10-Observer/10-Observer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/11-AbstractFactoryMehod/11-AbstractFactoryMehod.iml" filepath="$PROJECT_DIR$/11-AbstractFactoryMehod/11-AbstractFactoryMehod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-AbstractFactory/11-AbstractFactory.iml" filepath="$PROJECT_DIR$/11-AbstractFactory/11-AbstractFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern.iml" />
     </modules>
   </component>

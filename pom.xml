@@ -23,6 +23,7 @@
         <module>10-Observer</module>
         <module>11-AbstractFactoryMehod</module>
         <module>11-AbstractFactory</module>
+        <module>12 - State</module>
     </modules>
 
 

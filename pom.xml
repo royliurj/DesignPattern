@@ -11,19 +11,17 @@
     <modules>
         <module>01-SimpleFactory</module>
         <module>02-Strategy</module>
-        <module>03 - Decorator</module>
         <module>03-Decorator</module>
         <module>04-Proxy</module>
         <module>05-Factory</module>
         <module>06-Prototype</module>
         <module>07-TemplateMethod</module>
         <module>08-Facade</module>
-        <module>09-Build</module>
         <module>09-Builder</module>
         <module>10-Observer</module>
-        <module>11-AbstractFactoryMehod</module>
         <module>11-AbstractFactory</module>
-        <module>12 - State</module>
+        <module>12-State</module>
+        <module>13-Adapter</module>
     </modules>
 
 

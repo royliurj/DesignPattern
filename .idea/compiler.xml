@@ -20,6 +20,9 @@
         <module name="11-AbstractFactory" />
         <module name="11-AbstractFactoryMehod" />
         <module name="12 - State" />
+        <module name="12-State" />
+        <module name="13-Adapter" />
+        <module name="state" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -38,7 +41,10 @@
       <module name="11-AbstractFactory" target="1.5" />
       <module name="11-AbstractFactoryMehod" target="1.5" />
       <module name="12 - State" target="1.5" />
+      <module name="12-State" target="1.5" />
+      <module name="13-Adapter" target="1.5" />
       <module name="DesignPattern" target="1.5" />
+      <module name="state" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

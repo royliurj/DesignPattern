@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/12-State/12-State.iml" filepath="$PROJECT_DIR$/12-State/12-State.iml" />
       <module fileurl="file://$PROJECT_DIR$/13-Adapter/13-Adapter.iml" filepath="$PROJECT_DIR$/13-Adapter/13-Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/14-Memento/14-Memento.iml" filepath="$PROJECT_DIR$/14-Memento/14-Memento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15-Composite/15-Composite.iml" filepath="$PROJECT_DIR$/15-Composite/15-Composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern.iml" />
     </modules>
   </component>

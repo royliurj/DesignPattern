@@ -23,6 +23,7 @@
         <module>12-State</module>
         <module>13-Adapter</module>
         <module>14-Memento</module>
+        <module>15-Composite</module>
     </modules>
 
 

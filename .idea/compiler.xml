@@ -24,6 +24,7 @@
         <module name="13-Adapter" />
         <module name="14-Memento" />
         <module name="15-Composite" />
+        <module name="16-Iterator" />
         <module name="state" />
       </profile>
     </annotationProcessing>
@@ -47,6 +48,7 @@
       <module name="13-Adapter" target="1.5" />
       <module name="14-Memento" target="1.5" />
       <module name="15-Composite" target="1.5" />
+      <module name="16-Iterator" target="1.5" />
       <module name="DesignPattern" target="1.5" />
       <module name="state" target="1.5" />
     </bytecodeTargetLevel>

@@ -24,6 +24,7 @@
         <module>13-Adapter</module>
         <module>14-Memento</module>
         <module>15-Composite</module>
+        <module>16-Iterator</module>
     </modules>
 
 

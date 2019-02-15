@@ -25,6 +25,7 @@
         <module>14-Memento</module>
         <module>15-Composite</module>
         <module>16-Iterator</module>
+        <module>17-Singleton</module>
     </modules>
 
 

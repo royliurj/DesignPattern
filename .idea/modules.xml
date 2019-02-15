@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/14-Memento/14-Memento.iml" filepath="$PROJECT_DIR$/14-Memento/14-Memento.iml" />
       <module fileurl="file://$PROJECT_DIR$/15-Composite/15-Composite.iml" filepath="$PROJECT_DIR$/15-Composite/15-Composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/16-Iterator/16-Iterator.iml" filepath="$PROJECT_DIR$/16-Iterator/16-Iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17-Singleton/17-Singleton.iml" filepath="$PROJECT_DIR$/17-Singleton/17-Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern.iml" />
     </modules>
   </component>

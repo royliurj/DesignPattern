@@ -26,6 +26,7 @@
         <module name="15-Composite" />
         <module name="16-Iterator" />
         <module name="17-Singleton" />
+        <module name="18-Bridge" />
         <module name="state" />
       </profile>
     </annotationProcessing>
@@ -51,6 +52,7 @@
       <module name="15-Composite" target="1.5" />
       <module name="16-Iterator" target="1.5" />
       <module name="17-Singleton" target="1.5" />
+      <module name="18-Bridge" target="1.5" />
       <module name="DesignPattern" target="1.5" />
       <module name="state" target="1.5" />
     </bytecodeTargetLevel>

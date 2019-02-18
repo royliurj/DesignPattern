@@ -26,6 +26,7 @@
         <module>15-Composite</module>
         <module>16-Iterator</module>
         <module>17-Singleton</module>
+        <module>18-Bridge</module>
     </modules>
 
 

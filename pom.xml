@@ -27,6 +27,7 @@
         <module>16-Iterator</module>
         <module>17-Singleton</module>
         <module>18-Bridge</module>
+        <module>19-Command</module>
     </modules>
 
 

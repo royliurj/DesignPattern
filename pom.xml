@@ -29,6 +29,7 @@
         <module>18-Bridge</module>
         <module>19-Command</module>
         <module>20 - ResponsibilityChain</module>
+        <module>21-Mediator</module>
     </modules>
 
 
